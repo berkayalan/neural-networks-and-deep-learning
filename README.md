@@ -2,7 +2,7 @@
 
 These are Neural Networks and Deep Learning Course Materials given by deeplearning.ai and Andrew NG.
 
-##Learning Objectives
+## Learning Objectives
 
 - Build a logistic regression model structured as a shallow neural network
 - Build the general architecture of a learning algorithm, including parameter initialization, cost function and gradient calculation, and optimization implemetation (gradient descent)
