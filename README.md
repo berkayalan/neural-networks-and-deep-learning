@@ -4,16 +4,19 @@ These are Neural Networks and Deep Learning Course Materials given by deeplearni
 
 ## Learning Objectives
 
-- Build a logistic regression model structured as a shallow neural network
-- Build the general architecture of a learning algorithm, including parameter initialization, cost function and gradient calculation, and optimization implemetation (gradient descent)
-- Implement computationally efficient and highly vectorized versions of models
-- Compute derivatives for logistic regression, using a backpropagation mindset
-- Use Numpy functions and Numpy matrix/vector operations
-- Work with iPython Notebooks
-- Implement vectorization across multiple training examples
-- Describe hidden units and hidden layers
-- Use units with a non-linear activation function, such as tanh
-- Implement forward and backward propagation
-- Apply random initialization to your neural network
-- Increase fluency in Deep Learning notations and Neural Network Representations
-- Implement a 2-class classification neural network with a single hidden layer
+In this course, you will learn the foundations of deep learning. When you finish this class, you will:
+
+Understand the major technology trends driving Deep Learning
+Be able to build, train and apply fully connected deep neural networks
+Know how to implement efficient (vectorized) neural networks
+Understand the key parameters in a neural network's architecture
+This course also teaches you how Deep Learning actually works, rather than presenting only a cursory or surface-level description. So after completing it, you will be able to apply deep learning to a your own applications. If you are looking for a job in AI, after this course you will also be able to answer basic interview questions.
+
+Programming Assignments:
+
+- Python Basics with Numpy
+- Logistic Regression with a Neural Network mindset
+- Planar data classification with one hidden layer
+- Building your Deep Neural Network Step by Step 
+- Deep Neural Network Application
+
